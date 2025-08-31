@@ -67,9 +67,9 @@ Open in your browser: `http://localhost:8501`
 
 ## 🔗 Links
 - **Live App:** [Streamlit Deployment](https://ml-project-healthcare-premium-prediction-iwn8eit7kp4brxl3j8gdf.streamlit.app)  
-- **My GitHub Profile:** https://github.com/your-username
+- **My GitHub Profile:** [https://github.com/your-username](https://github.com/mmmuhammedcan)
 
 ---
 
 ## 🙏 Acknowledgments
-Built as part of my ML learning journey; inspired by educational materials and real-world use cases.
+Built as part of my ML learning journey with Codebasics companion; inspired by educational materials and real-world use cases.
