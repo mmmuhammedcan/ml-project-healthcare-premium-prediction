@@ -60,7 +60,7 @@ Open in your browser: `http://localhost:8501`
 
 ---
 
-## 📸 Screenshot (optional)
+## 📸 Screenshot 
 ![App Screenshot](screenshot.png)
 
 ---
