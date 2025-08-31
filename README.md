@@ -24,10 +24,16 @@ A **Streamlit** app that predicts health insurance premiums using a regression m
 ## 📂 Project Structure
 ~~~text
 .
-├── app.py                 # Main Streamlit app
+├── main.py                # Streamlit app (UI + feature inputs)
 ├── prediction_helper.py   # Prediction logic (ML model helper)
 ├── requirements.txt       # Python dependencies
-└── README.md              # Project documentation
+├── README.md              # Project documentation
+├── LICENSE                # License file
+├── .gitignore             # Git ignore rules
+├── artifacts/             # Stored model artifacts (trained models, scalers, etc.)
+├── __pycache__/           # Compiled Python cache files
+├── .idea/                 # IDE project settings (PyCharm/IntelliJ)
+└── screenshot.png         # App screenshot for README
 ~~~
 
 ---
